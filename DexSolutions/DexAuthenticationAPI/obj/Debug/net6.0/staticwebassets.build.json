@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uX8XSDVLghMv7LsCX5mCgk84MP/1zRfa7r4cdLeI7Sg=",
+  "Source": "DexAuthenticationAPI",
+  "BasePath": "_content/DexAuthenticationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

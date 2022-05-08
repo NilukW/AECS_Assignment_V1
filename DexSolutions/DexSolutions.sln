@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DexAddressServiceApi", "DexAddressServiceApi\DexAddressServiceApi.csproj", "{5C4066EB-24B0-49C0-95FC-2F469BA75FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DexExchangeApi", "DexExchangeApi\DexExchangeApi.csproj", "{31F3F379-4DC7-4700-BD85-E0B62A740154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DexAuthenticationAPI", "DexAuthenticationAPI\DexAuthenticationAPI.csproj", "{730D8DDD-A95E-47EE-830F-72714AC52E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4066EB-24B0-49C0-95FC-2F469BA75FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4066EB-24B0-49C0-95FC-2F469BA75FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4066EB-24B0-49C0-95FC-2F469BA75FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4066EB-24B0-49C0-95FC-2F469BA75FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F3F379-4DC7-4700-BD85-E0B62A740154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F3F379-4DC7-4700-BD85-E0B62A740154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F3F379-4DC7-4700-BD85-E0B62A740154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F3F379-4DC7-4700-BD85-E0B62A740154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730D8DDD-A95E-47EE-830F-72714AC52E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730D8DDD-A95E-47EE-830F-72714AC52E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730D8DDD-A95E-47EE-830F-72714AC52E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730D8DDD-A95E-47EE-830F-72714AC52E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CE3927-8B2B-42F9-80A9-49B5645D8E6C}
+	EndGlobalSection
+EndGlobal

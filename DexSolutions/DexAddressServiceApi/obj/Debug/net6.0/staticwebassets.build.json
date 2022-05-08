@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iyB9JoQBBR/MVpEjv844/vV5jWgA42w+e30Vi67qjCM=",
+  "Source": "DexAddressServiceApi",
+  "BasePath": "_content/DexAddressServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

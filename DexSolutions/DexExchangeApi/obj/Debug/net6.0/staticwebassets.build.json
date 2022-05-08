@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z+hGEneNTCMV8bcX8ttnMeQtjO6HHg09LyplbtOhErY=",
+  "Source": "DexExchangeApi",
+  "BasePath": "_content/DexExchangeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
